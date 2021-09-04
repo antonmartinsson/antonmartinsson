@@ -7,7 +7,7 @@ Or, if you don't care about development: Why not watch [my ten year old Youtube 
 
 Get in touch with me: </br></br>
 ✉️ <a href="mailto:antonm@rtinsson.com" target="_blank">Email</a></br>
-🕊 <a href="https://twitter.com/antonmedstorta" target="_blank">Twitter</a></br>
+🕊 <a href="https://twitter.com/ntonmartinsson" target="_blank">Twitter</a></br>
 💼 <a href="https://www.linkedin.com/in/antonmartinsson" target="_blank">LinkedIn</a>
   
 ### Until next time ✌️

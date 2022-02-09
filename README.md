@@ -16,7 +16,7 @@ Oh, you're here for my iOS apps? Makes sense! Here ya go:
 <br>
 
 Wait, that's not it? You're saying you don't care about development at all? 
-Why not watch [my ten year old Youtube series](https://www.youtube.com/watch?v=a6tFNKJKxXY) where I walk to Mordor? 🌋 </br>No really, I'm serious.
+<br>Why not watch [my ten year old Youtube series](https://www.youtube.com/watch?v=a6tFNKJKxXY) where I walk to Mordor? 🌋 No really, I'm serious.
 
 Get in touch 👇
 <h3><a href="mailto:antonm@rtinsson.com" target="_blank">✉️</a> | <a href="https://twitter.com/ntonmartinsson" target="_blank">🕊</a> | <a href="https://www.linkedin.com/in/antonmartinsson" target="_blank">💼</a></h3>

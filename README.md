@@ -1,6 +1,6 @@
 ## Hi, I'm Anton 👋
 
-I'm an iOS Developer who occasionally commits a thing or two to my repos here on Github when I have the time and inspiration to do so. 
+I'm an engineer who spends most of his days in the Apple development ecosystem. Occasionally, when I have the time and inspiration to do so, I commit a thing or two to my repos here on Github. 
 Feel free to browse and try out one of my latest creations [GaugeKit](https://github.com/antonmartinsson/GaugeKit), visit [my website](https://antonmartinsson.com) or check out the [How to Play video for PlåtNiklas](https://www.youtube.com/watch?v=6-X0B4tnFPs), perhaps the world's first simultaneous AR + VR game I was part of creating during my time at KTH Royal Institute of Technology. 
 
 Oh, you're here for my iOS apps? Makes sense! Here ya go:

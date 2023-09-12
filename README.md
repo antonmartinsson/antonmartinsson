@@ -5,7 +5,7 @@ Feel free to browse and try out one of my latest creations [GaugeKit](https://gi
 
 Oh, you're here for my iOS app, <a href="https://apps.apple.com/se/app/cryptoverview/id1578673077?l=en">Cryptoverview</a>? Makes sense! You already missed the link reading this though. Luckily it's still over there if you need it. 👈
   
-Wait, that's not it? You're saying you don't care about development at all? 
+What's that? You're saying you don't care about development at all? 
 <br>Why not watch [my ten year old Youtube series](https://www.youtube.com/watch?v=a6tFNKJKxXY) where I walk to Mordor? No really, I'm serious. 🌋
 
 Get in touch 👇

@@ -8,7 +8,10 @@ Oh, you're here for my latedt app, <a href="https://apps.apple.com/app/pollenomi
 What's that? You're saying you don't care about development at all? 
 <br>Why not watch [my fifteen year old Youtube series](https://www.youtube.com/watch?v=a6tFNKJKxXY) where I walk to Mordor? No really, I'm serious. 🌋
 
-Get in touch 👇
-<h3><a href="mailto:antonm@rtinsson.com" target="_blank">My email</a> | <a href="https://twitter.com/ntonmartinsson" target="_blank">My Twitter</a> | <a href="https://www.linkedin.com/in/antonmartinsson" target="_blank">My portfolio</a></h3>
+Get in touch 
+
+📫 <a href="mailto:antonm@rtinsson.com" target="_blank">Email</a></br></ul>
+🐦 <a href="https://twitter.com/ntonmartinsson" target="_blank">Twitter</a></br>
+💼 <a href="https://www.linkedin.com/in/antonmartinsson" target="_blank">Portfolio</a>
   
 ### Until next time ✌️

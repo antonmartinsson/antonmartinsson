@@ -9,6 +9,6 @@ What's that? You're saying you don't care about development at all?
 <br>Why not watch [my fifteen year old Youtube series](https://www.youtube.com/watch?v=a6tFNKJKxXY) where I walk to Mordor? No really, I'm serious. 🌋
 
 Get in touch 👇
-<h3><a href="mailto:antonm@rtinsson.com" target="_blank">✉️</a> | <a href="https://twitter.com/ntonmartinsson" target="_blank">✖︎</a> | <a href="https://www.linkedin.com/in/antonmartinsson" target="_blank">💼</a></h3>
+<h3><a href="mailto:antonm@rtinsson.com" target="_blank">My email</a> | <a href="https://twitter.com/ntonmartinsson" target="_blank">My Twitter</a> | <a href="https://www.linkedin.com/in/antonmartinsson" target="_blank">My portfolio</a></h3>
   
 ### Until next time ✌️

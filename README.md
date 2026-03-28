@@ -6,7 +6,7 @@ Feel free to browse and try out my open source Swift Package [GaugeKit](https://
 Oh, you're here for my latest app, <a href="https://apps.apple.com/app/pollenomics/id6747726612">Pollenomics</a>? Makes sense! You already missed the link reading this though. Luckily it's still over there if you need it. 👈
   
 What's that? You're saying you don't care about development at all? 
-<br>Why not watch [my fifteen year old Youtube series](https://www.youtube.com/watch?v=a6tFNKJKxXY) where I walk to Mordor? No really, I'm serious. 🌋
+<br>Why not watch [my twelve year old Youtube series](https://www.youtube.com/watch?v=a6tFNKJKxXY) where I walk to Mordor? No really, I'm serious. 🌋
 
 Get in touch 
 
